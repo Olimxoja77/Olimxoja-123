@@ -1,0 +1,21 @@
+.color-div {
+    width: 300px;
+    height: 200px;
+    background-color: red; 
+    text-align: center;
+    line-height: 200px;
+    margin: 20px;
+    font-size: 20px;
+}
+
+
+
+
+.number-display {
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 30px;
+    margin: 20px;
+}
